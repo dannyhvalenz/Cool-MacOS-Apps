@@ -17,6 +17,7 @@
 ## Audio
 ### Music
 - [Lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app
+- [Lyrics](https://github.com/onmyway133/Lyrics) -  A menu bar app to show the lyric of the playing Spotify song
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS
 - [Baritone](https://tma02.github.io/baritone/) - Spotify controls that live in your menubar.
 - [Spotify menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
@@ -35,6 +36,10 @@
 ## Utilities
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
 - [Translate bar](https://github.com/artbobrov/Translate-Bar) - Translate easily right from your macOS menubar
+- [micSwitch](https://github.com/dstd/micSwitch) - menu bar application for the mic mute/unmute
+- [EjectBar](https://github.com/bradleybernard/EjectBar) - macOS menu bar application to eject favorited mounted volumes
+- [Tassk](https://github.com/furkanhatipoglu/tassk) - Simple to-do menu bar app for OS X
+
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
 ## Touch Bar
@@ -46,8 +51,13 @@
 - [Titlebar and Toolbar](https://github.com/robin/TitlebarAndToolbar) - This is a showcase for several combinations of styles of title bar and toolbar of NSWindow.
 - [LYTabView](https://github.com/robin/LYTabView) - A customized Mac OS X Tab View with modern tab bar style
 - [VerticalBar](https://github.com/afallon02/VerticalBar) - Add as many Vertical bars to the macOS dock as you want
+- [Transparent titlebar](https://github.com/seanchas116/transparent-titlebar) - Transparent title bar with native title label in Electron for Mac
+
 
 ## App templates
 - [Ambar](https://github.com/AnaghSharma/Ambar) -  Menu Bar app template
 - [MenuBarOSXapp](https://github.com/albertobeta/MenuBarOSXapp) - Generic Mac OS X menu bar app (agent) template
+- [Menu Bar Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup) - 
+A simple tutorial which explains how to create Mac OS X application as a menu bar popup message
+
 
