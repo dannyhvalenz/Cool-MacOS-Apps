@@ -3,6 +3,7 @@
 ## Video
 - [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
 - [Kodi](https://github.com/xbmc/xbmc) - Media player and entertainment hub for digital media
+- [WWDC](https://wwdc.io/) - The unofficial WWDC app for macOS
 
 ## Audio
 ### Music
@@ -24,6 +25,10 @@
 - [AnyIpsum](https://github.com/jlowgren/AnyIpsum) - Menu bar application that lets you select a lorem ipsum variation and copy it to the pasteboard
 - [Tint](https://github.com/adaringdesign/tint) - A not-so-sucky color picker status bar for OSX
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS
+- [Gitignore](https://www.gitignore.io/) - Easy way to create useful .gitignore files for your project
+- [Create DMG](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
+- [ntfy](https://github.com/dschep/ntfy) - A utility for sending notifications, on demand and when commands finish
+- [npm desktop manager](https://720kb.github.io/ndm/)- npm desktop manage
 
 ### Terminal
 - [Hyper](https://hyper.is/) - A terminal built on web technologies
@@ -34,6 +39,16 @@
 - [Atom](https://github.com/atom/atom) - The hackable text editor
 - [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
 - [VS Code](https://code.visualstudio.com/) - Code editor with plugins
+
+### Resources
+- [Ambar](https://github.com/AnaghSharma/Ambar) -  Menu Bar app template
+- [MenuBarOSXapp](https://github.com/albertobeta/MenuBarOSXapp) - Generic Mac OS X menu bar app (agent) template
+- [Menu Bar Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup) - A simple tutorial which explains how to create Mac OS X application as a menu bar popup message
+- [Flag Kit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web
+- [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift
+- [FontAwesome](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects
+- [SwifterSwift](https://swifterswift.com/) - A collection of over 500 native Swift 4 extensions
+- [Swift AI](https://github.com/Swift-AI/Swift-AI) - A high-performance deep learning library written entirely in Swift
 
 ## Utilities
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
@@ -59,6 +74,7 @@
 - [Today flights](http://joshparnham.com/projects/todayflights/) - Notification Center widget that allows you to monitor flights
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [Kap](https://getkap.co/) - An open-source screen recorder built with web technology
+- [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS
 
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
@@ -67,6 +83,12 @@
 - [Typora](https://typora.io/) - A minimalistic markdown editor
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux
 - [Marktext](https://github.com/marktext/marktext) - Next generation markdown editor
+- [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS
+
+## Social
+- [Rambox CE](https://rambox.pro/#home) - Messaging and emailing app that combines common web applications into one
+- [Frank](https://meetfranz.com/) - Messaging app for WhatsApp, Facebook Messenger, Slack, HipChat, Telegram and many many more
+- [Caprine](https://sindresorhus.com/caprine/) - Elegant Facebook Messenger desktop app
 
 ## Forensic Tools
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
@@ -85,9 +107,5 @@
 - [VerticalBar](https://github.com/afallon02/VerticalBar) - Add as many Vertical bars to the macOS dock as you want
 - [Transparent titlebar](https://github.com/seanchas116/transparent-titlebar) - Transparent title bar with native title label in Electron for Mac
 
-## App templates
-- [Ambar](https://github.com/AnaghSharma/Ambar) -  Menu Bar app template
-- [MenuBarOSXapp](https://github.com/albertobeta/MenuBarOSXapp) - Generic Mac OS X menu bar app (agent) template
-- [Menu Bar Popup](https://github.com/maximbilan/Mac-OS-X-App-Menu-Bar-Popup) - A simple tutorial which explains how to create Mac OS X application as a menu bar popup message
 
 
