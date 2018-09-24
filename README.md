@@ -1,9 +1,11 @@
 # Cool apps for MacOS
 
-## Video
+## Multimedia
 - [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
 - [Kodi](https://github.com/xbmc/xbmc) - Media player and entertainment hub for digital media
 - [WWDC](https://wwdc.io/) - The unofficial WWDC app for macOS
+- [Apple Events](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS
+- [Caption](https://getcaption.co/) - Caption takes the effort out of finding and setting up the right subtitles
 
 ## Audio
 ### Music
@@ -16,7 +18,8 @@
 - [menu bar for spotify](https://github.com/laaksomavrick/menu-bar-for-spotify) - A menu bar app for Spotify that display the currently playing track
 - [kmbmpdc](https://kmbmpdc.perala.me/) - kawaii menubar music player daemon controller
 - [Menu Bar Controller for Sonos](https://github.com/Sn0wfreezeDev/MenuBarControllerSonos) - Control your Sonos sound system from your mac menu bar
-
+- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
+- [Background music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio
 ### Podcast
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 
@@ -29,11 +32,13 @@
 - [Create DMG](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [ntfy](https://github.com/dschep/ntfy) - A utility for sending notifications, on demand and when commands finish
 - [npm desktop manager](https://720kb.github.io/ndm/)- npm desktop manage
+- [Avalon Studio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 
 ### Terminal
 - [Hyper](https://hyper.is/) - A terminal built on web technologies
 - [UpTerm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system
+- [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things
 
 ### Code editor
 - [Atom](https://github.com/atom/atom) - The hackable text editor
@@ -49,6 +54,7 @@
 - [FontAwesome](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects
 - [SwifterSwift](https://swifterswift.com/) - A collection of over 500 native Swift 4 extensions
 - [Swift AI](https://github.com/Swift-AI/Swift-AI) - A high-performance deep learning library written entirely in Swift
+- [Element](https://github.com/eonist/Element) - Programmatic UI for macOS
 
 ## Utilities
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
@@ -72,9 +78,13 @@
 - [Caffeinator](https://aaplmath.github.io/Caffeinator/) - The most powerful way to keep your Mac awake
 - [Timezones](https://github.com/FranciscoAmado/Timezones) - macOS App for keeping track of multiple Time Zones in the Status Bar
 - [Today flights](http://joshparnham.com/projects/todayflights/) - Notification Center widget that allows you to monitor flights
+- [Keka](https://www.keka.io/en/) - File archiver
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [Kap](https://getkap.co/) - An open-source screen recorder built with web technology
+- [Aperture](https://github.com/wulkano/aperture) - Record the screen on macOS
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS
+- [Alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
+- [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
@@ -84,11 +94,21 @@
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux
 - [Marktext](https://github.com/marktext/marktext) - Next generation markdown editor
 - [MacDown](https://macdown.uranusjr.com/) - The open source Markdown editor for macOS
+- [Twig](https://github.com/lukakerr/twig) - A modern macOS markdown editor - themeable, tabs, sidebar, github flavored markdown, exporting, latex and more
+- [Inboxer](https://denysdovhan.com/inboxer/) - Unofficial, free and open-source Inbox by Gmail Desktop App
+- [Dropbox Paper](https://github.com/williambout/paper-for-mac) - Unofficial Dropbox Paper client for macOS
 
 ## Social
 - [Rambox CE](https://rambox.pro/#home) - Messaging and emailing app that combines common web applications into one
 - [Frank](https://meetfranz.com/) - Messaging app for WhatsApp, Facebook Messenger, Slack, HipChat, Telegram and many many more
 - [Caprine](https://sindresorhus.com/caprine/) - Elegant Facebook Messenger desktop app
+- [Noti](https://noti.center/) - Receive Android notifications on your mac. (w/PushBullet)
+
+## Health
+- [Stretchly](https://github.com/hovancik/stretchly) -  Break time reminder app
+
+## Plugins
+- [MacForge](https://www.macenhance.com/macforge) - Plugin manager for macOS
 
 ## Forensic Tools
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
@@ -106,6 +126,9 @@
 - [LYTabView](https://github.com/robin/LYTabView) - A customized Mac OS X Tab View with modern tab bar style
 - [VerticalBar](https://github.com/afallon02/VerticalBar) - Add as many Vertical bars to the macOS dock as you want
 - [Transparent titlebar](https://github.com/seanchas116/transparent-titlebar) - Transparent title bar with native title label in Electron for Mac
+- [Flashlight](https://www.macenhance.com/flashlight) - Enhance Spotlight with plugins on macOS
 
-
+## Screensavers
+- [Countdown](https://github.com/soffes/Countdown) - Mac screensaver for counting down to a date
+- [Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
 
