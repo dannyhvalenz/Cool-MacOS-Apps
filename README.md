@@ -57,6 +57,7 @@
 
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support
 
 ## Forensic Tools
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
