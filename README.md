@@ -1,14 +1,15 @@
 # Cool apps for MacOS
 
 ## Video
-- [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS.
+- [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
+- [Kodi](https://github.com/xbmc/xbmc) - Media player and entertainment hub for digital media
 
 ## Audio
 ### Music
 - [Lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app
 - [Lyrics](https://github.com/onmyway133/Lyrics) -  A menu bar app to show the lyric of the playing Spotify song
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS
-- [Baritone](https://tma02.github.io/baritone/) - Spotify controls that live in your menubar.
+- [Baritone](https://tma02.github.io/baritone/) - Spotify controls that live in your menubar
 - [Spotify menubar](https://github.com/AurelTyson/spotify-menubar) - A macOS menu bar application with Spotify's current track informations
 - [TrayPlay](https://mborgerson.com/trayplay/) - An app for OS X that lives in your menu bar and lets you easily control iTunes or Spotify, without interrupting your workflow.
 - [menu bar for spotify](https://github.com/laaksomavrick/menu-bar-for-spotify) - A menu bar app for Spotify that display the currently playing track
@@ -26,6 +27,8 @@
 
 ### Terminal
 - [Hyper](https://hyper.is/) - A terminal built on web technologies
+- [UpTerm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century
+- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system
 
 ### Code editor
 - [Atom](https://github.com/atom/atom) - The hackable text editor
@@ -54,11 +57,16 @@
 - [Caffeinator](https://aaplmath.github.io/Caffeinator/) - The most powerful way to keep your Mac awake
 - [Timezones](https://github.com/FranciscoAmado/Timezones) - macOS App for keeping track of multiple Time Zones in the Status Bar
 - [Today flights](http://joshparnham.com/projects/todayflights/) - Notification Center widget that allows you to monitor flights
+- [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [Kap](https://getkap.co/) - An open-source screen recorder built with web technology
 
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web
+- [Typora](https://typora.io/) - A minimalistic markdown editor
+- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux
+- [Marktext](https://github.com/marktext/marktext) - Next generation markdown editor
 
 ## Forensic Tools
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
