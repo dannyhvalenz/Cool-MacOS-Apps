@@ -13,18 +13,24 @@
 - [TrayPlay](https://mborgerson.com/trayplay/) - An app for OS X that lives in your menu bar and lets you easily control iTunes or Spotify, without interrupting your workflow.
 - [menu bar for spotify](https://github.com/laaksomavrick/menu-bar-for-spotify) - A menu bar app for Spotify that display the currently playing track
 - [kmbmpdc](https://kmbmpdc.perala.me/) - kawaii menubar music player daemon controller
+- [Menu Bar Controller for Sonos](https://github.com/Sn0wfreezeDev/MenuBarControllerSonos) - Control your Sonos sound system from your mac menu bar
 
 ### Podcast
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 
 ## Developer Tools
-- [Hyper](https://hyper.is/) - A terminal built on web technologies.
-- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a menu bar app that allows you to capture screenshots of your favourite websites and wrap them in device mock-ups.
-- [AnyIpsum](https://github.com/jlowgren/AnyIpsum) - Menu bar application that lets you select a lorem ipsum variation and copy it to the pasteboard.
+- [Mockup Generator](https://github.com/andypotts/mockup-generator) - Mockup Generator is a menu bar app that allows you to capture screenshots of your favourite websites and wrap them in device mock-ups
+- [AnyIpsum](https://github.com/jlowgren/AnyIpsum) - Menu bar application that lets you select a lorem ipsum variation and copy it to the pasteboard
 - [Tint](https://github.com/adaringdesign/tint) - A not-so-sucky color picker status bar for OSX
-- [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS
 
+### Terminal
+- [Hyper](https://hyper.is/) - A terminal built on web technologies
+
+### Code editor
+- [Atom](https://github.com/atom/atom) - The hackable text editor
+- [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
+- [VS Code](https://code.visualstudio.com/) - Code editor with plugins
 
 ## Utilities
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
@@ -46,6 +52,8 @@
 - [Carendar](https://github.com/seanlilmateus/carendar) - OSX status bar Calendar written in Rubymotion
 - [Weather bar app](https://weatherbarapp.com/) - Weather Bar lives in your Menu Bar giving you access to beautiful real-time weather conditions and a generous 15-day forecast
 - [Caffeinator](https://aaplmath.github.io/Caffeinator/) - The most powerful way to keep your Mac awake
+- [Timezones](https://github.com/FranciscoAmado/Timezones) - macOS App for keeping track of multiple Time Zones in the Status Bar
+- [Today flights](http://joshparnham.com/projects/todayflights/) - Notification Center widget that allows you to monitor flights
 
 ## Productivity
 - [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
@@ -59,6 +67,7 @@
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar
 - [MTMR](https://github.com/Toxblh/MTMR) - My TouchBar. My rules
 - [TouchBarPong](https://github.com/ferdinandl007/TouchBarPong) - And amazing new way of playing pong with the touchbar
+- [Hangouts](https://github.com/jaapjan/touchbar-hangouts) - Control your Google Hangouts call from the touch bar
 
 ## Customize your Mac
 - [Titlebar and Toolbar](https://github.com/robin/TitlebarAndToolbar) - This is a showcase for several combinations of styles of title bar and toolbar of NSWindow.
