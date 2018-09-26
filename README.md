@@ -187,12 +187,6 @@
 
 [![](https://github.com/soffes/Countdown/raw/master/Countdown.gif)](https://github.com/soffes/Countdown)
 
-#### Motivation
-
-> Mac screen saver that terrifyingly shows your age
-
-[https://camo.githubusercontent.com/4d1bd3eb61a777cc6acef83d4234d2e797e7b1c7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f662e636c2e6c792f6974656d732f34313159333431753364335831563243307034352f53637265656e2532305265636f7264696e67253230323031352d30382d3037253230617425323030382e3135253230414d2e676966](https://github.com/soffes/Motivation)
-
 ### iOS (and Apple TV) Inspired
 
 #### Aerial
