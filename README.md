@@ -225,6 +225,7 @@
 - [CSS Icon](https://cssicon.space/#/) - Icon set
 - [Illustrio](https://illustrio.com/) - Icon library
 - [Pixel Icons](https://pixelicons.com/free-pack/) - Icon pack
+- [Ionicons](https://ionicons.com/) - Beautifully crafted open source icons
 
 ### Color palettes
 - [Colors](https://klart.io/colors?ref=producthunt) - Collection of color palettes
