@@ -207,7 +207,7 @@
 
 > PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
-[![]()](https://mikeash.com/software/pongsaver/)
+[![](https://mikeash.com/software/pongsaver/screenshot.png)](https://mikeash.com/software/pongsaver/)
 
 ### Sci-Fi
 
