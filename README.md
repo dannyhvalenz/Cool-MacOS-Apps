@@ -37,6 +37,7 @@
 - [Avalon Studio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [TermHere](https://hbang.ws/apps/termhere/) - Finder extension that place a "new terminal here" button in the finder toolbar
 - [POPSQL](https://popsql.io/) -  Modern, collaborative SQL editor for your team for Windows, Linux and MacOS
+- [Tokei](https://github.com/Aaronepower/tokei) - A program that allows you to count your code, quickly
 
 ### Terminal
 - [Hyper](https://hyper.is/) - A terminal built on web technologies
@@ -60,6 +61,7 @@
 - [SwifterSwift](https://swifterswift.com/) - A collection of over 500 native Swift 4 extensions
 - [Swift AI](https://github.com/Swift-AI/Swift-AI) - A high-performance deep learning library written entirely in Swift
 - [Element](https://github.com/eonist/Element) - Programmatic UI for macOS
+- [Multi-os-engine](https://multi-os-engine.org/) - Create iOS Apps in Java
 
 ## Utilities
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
@@ -138,10 +140,15 @@
 - [Dynamic Wallpapers](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 
-
 ## Screensavers
 - [Countdown](https://github.com/soffes/Countdown) - Mac screensaver for counting down to a date
 - [Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
+### Clocks
+#### fliqlo
+
+> A flip clock screensaver.
+
+[![](screenshots/fliqlo.png)](http://fliqlo.com/)
 
 ## Design
 - [NucleoApp](https://nucleoapp.com/) - Icon Organizer & Icon Library
@@ -151,7 +158,6 @@
 - [CSS Icon](https://cssicon.space/#/) - Icon set
 - [Illustrio](https://illustrio.com/) - Icon library
 - [Pixel Icons](https://pixelicons.com/free-pack/) - Icon pack
+
 ### Color palettes
 - [Colors](https://klart.io/colors?ref=producthunt) - Collection of color palettes
-
-
