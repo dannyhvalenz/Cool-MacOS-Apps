@@ -141,14 +141,87 @@
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 
 ## Screensavers
-- [Countdown](https://github.com/soffes/Countdown) - Mac screensaver for counting down to a date
-- [Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
+
+
+
 ### Clocks
 #### fliqlo
 
 > A flip clock screensaver
 
 [![](https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/e4f3c556-9b2d-11e6-a5f5-00163ec9f5fa/2488638973/fliqlo-screenshot.jpg)](http://fliqlo.com/)
+
+#### Padbury Clock
+
+> A very simple clock screensaver.
+
+[![](https://images.sayzlim.net/2014/07/screensaver_padbury.jpg)](http://padbury.me/clock/)
+
+#### Epoch Flip Clock
+
+> Unix Time (epoch) flip clock.
+
+[![](https://raw.githubusercontent.com/chrstphrknwtn/epoch-flip-clock/master/epochFlipClock.png)](https://github.com/chrstphrknwtn/epoch-flip-clock-screensaver/)
+
+#### Grid Clock
+
+> Twelve hour time in words.
+
+[![](http://techandcheese.altervista.org/wp-content/uploads/2017/02/grid_clock_screensaver_mac-960x600.png)](https://github.com/chrstphrknwtn/grid-clock-screensaver/)
+
+#### Word Clock
+
+> A super simple word clock, like your computer is typing the time for you.
+
+[![](https://github.com/chrstphrknwtn/word-clock-screensaver/raw/master/screenshot.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
+
+#### Simple Clock
+
+> A simple clock screensaver with different analogue clock faces as skins.
+
+[![](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/raw/master/images/BraunBN0032Dark.png)](https://github.com/Wandmalfarbe/Simple-Clock-Screensaver/)
+
+#### Countdown
+
+> Mac screensaver for counting down to a date
+
+- [![](https://github.com/soffes/Countdown/raw/master/Countdown.gif)](https://github.com/soffes/Countdown)
+
+#### Motivation
+
+> Mac screen saver that terrifyingly shows your age
+
+[https://camo.githubusercontent.com/4d1bd3eb61a777cc6acef83d4234d2e797e7b1c7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f662e636c2e6c792f6974656d732f34313159333431753364335831563243307034352f53637265656e2532305265636f7264696e67253230323031352d30382d3037253230617425323030382e3135253230414d2e676966](https://github.com/soffes/Motivation)
+
+### iOS (and Apple TV) Inspired
+
+#### Aerial
+
+> Apple TV Aerial Screensaver for Mac.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/aerial.png)](https://github.com/JohnCoates/Aerial)
+
+#### Apple Watch
+
+> A screensaver that looks like an Apple Watch.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
+
+### Retro
+
+### PongSaver
+
+> PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
+
+[![]()](https://mikeash.com/software/pongsaver/)
+
+### Sci-Fi
+
+#### The Github Matrix Screensaver
+
+> The latest commits from GitHub visualized in a Matrix-style animation.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
 
 ## Design
 - [NucleoApp](https://nucleoapp.com/) - Icon Organizer & Icon Library
