@@ -146,9 +146,9 @@
 ### Clocks
 #### fliqlo
 
-> A flip clock screensaver.
+> A flip clock screensaver
 
-[![](screenshots/fliqlo.png)](http://fliqlo.com/)
+[![](https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/e4f3c556-9b2d-11e6-a5f5-00163ec9f5fa/2488638973/fliqlo-screenshot.jpg)](http://fliqlo.com/)
 
 ## Design
 - [NucleoApp](https://nucleoapp.com/) - Icon Organizer & Icon Library
