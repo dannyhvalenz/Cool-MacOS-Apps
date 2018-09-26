@@ -6,6 +6,8 @@
 - [WWDC](https://wwdc.io/) - The unofficial WWDC app for macOS
 - [Apple Events](https://github.com/insidegui/AppleEvents) - The unofficial Apple Events app for macOS
 - [Caption](https://getcaption.co/) - Caption takes the effort out of finding and setting up the right subtitles
+- [Subtitlr](http://frkovic.me/) - The easiest way to get subtitles on a Mac
+- [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles
 
 ## Audio
 ### Music
@@ -33,6 +35,8 @@
 - [ntfy](https://github.com/dschep/ntfy) - A utility for sending notifications, on demand and when commands finish
 - [npm desktop manager](https://720kb.github.io/ndm/)- npm desktop manage
 - [Avalon Studio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
+- [TermHere](https://hbang.ws/apps/termhere/) - Finder extension that place a "new terminal here" button in the finder toolbar
+- [POPSQL](https://popsql.io/) -  Modern, collaborative SQL editor for your team for Windows, Linux and MacOS
 
 ### Terminal
 - [Hyper](https://hyper.is/) - A terminal built on web technologies
@@ -44,6 +48,7 @@
 - [Atom](https://github.com/atom/atom) - The hackable text editor
 - [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
 - [VS Code](https://code.visualstudio.com/) - Code editor with plugins
+- [Poetri](http://poetri.co/?ref=producthunt) - Terminal + IDE with superpowers
 
 ### Resources
 - [Ambar](https://github.com/AnaghSharma/Ambar) -  Menu Bar app template
@@ -64,7 +69,7 @@
 - [Tassk](https://github.com/furkanhatipoglu/tassk) - Simple to-do menu bar app for OS X
 - [Fast menubar](https://github.com/doshprompt/fast-menubar) - Take the Fast.com Speedtest from your menu bar
 - [Google keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
-- [CleanMenuBar](https://trav.sh/keep/) - Hide menu bar icons for third-party apps on macOS
+- [CleanMenuBar](https://github.com/kevinmbeaulieu/CleanMenuBar) - Hide menu bar icons for third-party apps on macOS
 - [Timestamp](https://mzdr.github.io/timestamp/) - A better macOS menu bar clock with a customizable date/time display and a calendar
 - [Shifty](https://shifty.natethompson.io/en/) - A macOS menu bar app that gives you more control over Night Shift.
 - [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar
@@ -85,9 +90,11 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS
 - [Alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
+- [Guso](https://itunes.apple.com/us/app/guso/id1434234265?mt=12) - Quick Web Search
+- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac?ref=producthunt) - Detailed battery information for your MacBook, iPhone & iPad
 
 ## Productivity
-- [Nimble](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
+- [Nimble 2](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support
 - [Nylas Mail](https://github.com/nylas/nylas-mail) - An extensible desktop mail app built on the modern web
 - [Typora](https://typora.io/) - A minimalistic markdown editor
@@ -109,6 +116,7 @@
 
 ## Plugins
 - [MacForge](https://www.macenhance.com/macforge) - Plugin manager for macOS
+- [Luna](https://github.com/rvpanoz/luna) - NPM Package manager through a modern UI
 
 ## Forensic Tools
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
@@ -127,8 +135,23 @@
 - [VerticalBar](https://github.com/afallon02/VerticalBar) - Add as many Vertical bars to the macOS dock as you want
 - [Transparent titlebar](https://github.com/seanchas116/transparent-titlebar) - Transparent title bar with native title label in Electron for Mac
 - [Flashlight](https://www.macenhance.com/flashlight) - Enhance Spotlight with plugins on macOS
+- [Dynamic Wallpapers](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
+- [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
+
 
 ## Screensavers
 - [Countdown](https://github.com/soffes/Countdown) - Mac screensaver for counting down to a date
 - [Motivation](https://github.com/soffes/Motivation) - Mac screen saver that terrifyingly shows your age
+
+## Design
+- [NucleoApp](https://nucleoapp.com/) - Icon Organizer & Icon Library
+
+### Icons
+- [CSS Icon (Old)](https://cssicon.space/old/) - Icon set
+- [CSS Icon](https://cssicon.space/#/) - Icon set
+- [Illustrio](https://illustrio.com/) - Icon library
+- [Pixel Icons](https://pixelicons.com/free-pack/) - Icon pack
+### Color palettes
+- [Colors](https://klart.io/colors?ref=producthunt) - Collection of color palettes
+
 
