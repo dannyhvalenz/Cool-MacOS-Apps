@@ -185,7 +185,7 @@
 
 > Mac screensaver for counting down to a date
 
-- [![](https://github.com/soffes/Countdown/raw/master/Countdown.gif)](https://github.com/soffes/Countdown)
+[![](https://github.com/soffes/Countdown/raw/master/Countdown.gif)](https://github.com/soffes/Countdown)
 
 #### Motivation
 
