@@ -721,12 +721,6 @@
 - [Luna](https://github.com/rvpanoz/luna) - NPM Package manager through a modern UI
 - [npm desktop manager](https://720kb.github.io/ndm/) - npm desktop manager
 
-### Black-List
-
-*Third party app market black list*
-
-
-
 ## Mac App Recommendations Sites
 
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
