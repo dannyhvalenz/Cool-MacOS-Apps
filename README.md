@@ -86,7 +86,6 @@
 * [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. 
 * [DLite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X. 
-* [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. 
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. 
 * [Gemini 2](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [iHosts](https://toolinbox.net/en/iHosts/) - The only `/etc/hosts` editor on Mac App Store. 
@@ -499,6 +498,11 @@
 - [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder.
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
+- [Open In Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Mac new file](https://github.com/fateleak/macnewfile) - MacOS Finder new file plugin, supporting file templates
+- [Open Terminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
+- [Open in Terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
+- [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. 
 
 #### QuickLook Plugins
 
@@ -693,6 +697,10 @@
 - [Dynamic Wallpapers](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 
+## mySIMBL Plugins
+- [colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - [mySIMBL](https://github.com/w0lfschild/mySIMBL) plugin to add color back to the sidebar icons in Finder on macOS
+- [DarkBoot](https://github.com/w0lfschild/DarkBoot) - Customize the boot, login and lock screens on macOS
+
 ### Screensavers
 
 -  [fliqlo](http://fliqlo.com/) - A flip clock screensaver.
@@ -720,6 +728,7 @@
 - [MacForge](https://www.macenhance.com/macforge) - Plugin manager for macOS
 - [Luna](https://github.com/rvpanoz/luna) - NPM Package manager through a modern UI
 - [npm desktop manager](https://720kb.github.io/ndm/) - npm desktop manager
+- [mySIMBL](https://github.com/w0lfschild/mySIMBL) - Plugin manager for macOS
 
 ## Mac App Recommendations Sites
 
