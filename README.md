@@ -697,9 +697,11 @@
 - [Dynamic Wallpapers](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
 
-## mySIMBL Plugins
+### mySIMBL Plugins
 - [colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - [mySIMBL](https://github.com/w0lfschild/mySIMBL) plugin to add color back to the sidebar icons in Finder on macOS
 - [DarkBoot](https://github.com/w0lfschild/DarkBoot) - Customize the boot, login and lock screens on macOS
+- [DoctorDark](https://github.com/w0lfschild/DoctorDark) - Bring dark mode to macOS
+
 
 ### Screensavers
 
