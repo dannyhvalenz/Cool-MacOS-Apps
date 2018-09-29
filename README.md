@@ -202,6 +202,10 @@
 - [Swift AI](https://github.com/Swift-AI/Swift-AI) - A high-performance deep learning library written entirely in Swift
 - [Element](https://github.com/eonist/Element) - Programmatic UI for macOS
 - [Multi-os-engine](https://multi-os-engine.org/) - Create iOS Apps in Java
+- [nodeScratchpad](https://github.com/vsaravind007/nodeScratchpad) - Evaluate Nodejs Code Snippets From Menubar!
+- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app
+- [Gitnews](https://github.com/sirbrillig/gitnews-menubar) - Display GitHub notifications in your menu bar
+- [Gitlab time tracker taskbar](https://github.com/kriskbx/gitlab-time-tracker-taskbar) - A crossplatform menubar/taskbar application for GitLabs time tracking feature. Currently in BETA!
 
 ## Design and Product
 
@@ -261,6 +265,7 @@
 * [Gifox](https://gifox.io/) - Gif Recording and Sharing. 
 * [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. 
 * [KeyCastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer. 
+* [Katana](https://github.com/bluegill/katana) - a powerful, open-source screenshot utility for macOS
 * [Annotate](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12) - Make screenshots. Draw on it. It's fast, easy and free. 
 * [Skitch](https://evernote.com/skitch/) - Screen capture application with a powerful annotation capabilities. 
 * [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up.
@@ -332,6 +337,7 @@
 * [Postbox](https://www.postbox-inc.com) - Powerful, simple and beautiful email client, need to pay for a license.
 * [Spark](https://sparkmailapp.com/) - Fast email client. For both Mac OS and iOS.
 * [Inboxer](https://denysdovhan.com/inboxer/) - Unofficial, free and open-source Inbox by Gmail Desktop App
+* [Correo](https://github.com/amitmerchant1990/correo) -  menubar/taskbar Gmail App for Windows and macOS
 
 ### File Sharing
 
@@ -366,12 +372,14 @@
 ## Audio Tools
 
 - [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. 
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - A SoundCloud player that lives in your menubar.
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar
 - [Background music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio
 - [mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
 - [Menu Bar Controller for Sonos](https://github.com/Sn0wfreezeDev/MenuBarControllerSonos) - Control your Sonos sound system from your mac menu bar
 - [menu bar for spotify](https://github.com/laaksomavrick/menu-bar-for-spotify) - A menu bar app for Spotify that display the currently playing track
 - [kmbmpdc](https://kmbmpdc.perala.me/) - kawaii menubar music player daemon controller
+- [Chord Detector](https://github.com/cemolcay/ChordDetector) - A tiny menu bar app that listens iTunes and Spotify to detect chords of songs!
 - [Lyrics](https://github.com/onmyway133/Lyrics) -  A menu bar app to show the lyric of the playing Spotify song
 - [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app for macOS
 - [Baritone](https://tma02.github.io/baritone/) - Spotify controls that live in your menubar
@@ -379,7 +387,6 @@
 - [TrayPlay](https://mborgerson.com/trayplay/) - An app for OS X that lives in your menu bar and lets you easily control iTunes or Spotify, without interrupting your workflow.
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics for iTunes, Spotify and Vox
 - [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes in your menu bar. 
-
 - [Lyricsify](https://github.com/mamal72/lyricsify-mac) - A simple Spotify lyrics viewer menu bar app
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. 
@@ -409,6 +416,7 @@
 
 - [Grammarly](https://app.grammarly.com/) - Refine your english
 - [iTranslate](http://www.itranslate.com/) - Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages.
+- [Oversetter](https://github.com/4gray/oversetter) - Translate text directly from your menubar
 
 ## Security Tools
 
@@ -448,9 +456,15 @@
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar.
 - [Vanilla](http://vanilla.matthewpalmer.net/) - Hide menu bar icons on your Mac.
-- [Guso](https://itunes.apple.com/us/app/guso/id1434234265?mt=12) - Quick Web Search
-- [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support
-- [Google keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar
+- [Guso](https://itunes.apple.com/us/app/guso/id1434234265?mt=12) - Quick Web Search.
+- [AFK](https://github.com/jamieweavis/afk) - The missing screensaver shortcut for macOS
+- [Mater](https://github.com/jasonlong/mater) - A simple and purty menubar Pomodoro app written in Electron
+- [Menubar toogle](https://github.com/leonspok/Menubar-Toggle) - Dark wallpaper - dark OS X, light wallpaper - light OS X. That's so simple.
+- [Pretzel](https://github.com/amiechen/pretzel) - Pretzel is Mac desktop app that shows and find keyboard shortcuts based on your current app.
+- [Mojibar](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app.
+- [Temps](https://github.com/jackd248/temps) - Simple menubar application based on Electron with actual weather information and forecast.
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique Timer for macOS with Touch Bar support.
+- [Google keep](https://github.com/tmcinerney/keep) - Run Google Keep in the menu bar.
 - [CleanMenuBar](https://github.com/kevinmbeaulieu/CleanMenuBar) - Hide menu bar icons for third-party apps on macOS
 - [TopDrawer](https://github.com/SteveBarnegren/TopDrawer) - Quick access to your most used files from the menu bar
 - [micSwitch](https://github.com/dstd/micSwitch) - menu bar application for the mic mute/unmute
@@ -528,11 +542,15 @@
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files.
 - [Coolant](https://coolantformac.com/) - Menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 - [DaisyDisk](https://daisydiskapp.com/) - Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
+- [Theine](https://github.com/lvillani/theine) - Don't let your Mac fall asleep, like a sir
+- [Menu brightness](https://github.com/lucasbento/menubar-brightness) - MacOS app to change the screen brightness on the menubar.
+- [Simon](https://github.com/half0wl/simon) - Simple menubar system monitor for macOS, written in Python with pyobjc.
 - [iGlance](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac?ref=producthunt) - Detailed battery information for your MacBook, iPhone & iPad
 - [BatteryBar](https://github.com/blandinw/batterybar) - Minimalist menubar item for macOS that tells you how much time/% is left in your battery
 - [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - Disable either lid and/or idle sleep (so you can play music with your lid closed, for example).
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor on the menubar.
+- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center 
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting.
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Alternative to Caffeine with better support for dark mode in Mac.
 - [Monity](http://www.monityapp.com/) - System monitoring widget for OS X.
@@ -559,9 +577,12 @@
 - [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS.
 - [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac.
+- [Foco](https://github.com/akashnimare/foco) - Stay focused with Foco
+- [Brew Services Menubar](https://github.com/andrewn/brew-services-menubar) - An OS X menu item for starting and stopping homebrew services
 - [Manta](https://manta.life/) - Flexible invoicing desktop app with beautiful & customizable templates.
 - [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X
+- [Webdrop](https://github.com/JustinFincher/WebDrop) -  Share your Mac's current chrome tab via airdrop
 - [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 
 ## Productivity
@@ -631,6 +652,7 @@
 - [Dropbox Paper](https://github.com/williambout/paper-for-mac) - Unofficial Dropbox Paper client for macOS.
 - [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager.
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
+- [Bearclaw](https://github.com/Savjee/bearclaw) - Menubar app to quickly create new notes in Bear
 
 ### Ebooks
 
@@ -696,6 +718,7 @@
 - [Flashlight](https://www.macenhance.com/flashlight) - Enhance Spotlight with plugins on macOS
 - [Dynamic Wallpapers](https://github.com/mczachurski/wallpapper) - Console application for creating dynamic wallpapers for macOS Mojave
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS
+- [Bedim](https://github.com/victorgama/bedim) - Bedim blurs your wallpapers
 
 ### mySIMBL Plugins
 - [colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) - [mySIMBL](https://github.com/w0lfschild/mySIMBL) plugin to add color back to the sidebar icons in Finder on macOS
