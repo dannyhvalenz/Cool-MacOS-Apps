@@ -455,6 +455,7 @@
 ### Menu Bar Tools
 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.
+- [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar.
 - [Vanilla](http://vanilla.matthewpalmer.net/) - Hide menu bar icons on your Mac.
 - [Guso](https://itunes.apple.com/us/app/guso/id1434234265?mt=12) - Quick Web Search.
