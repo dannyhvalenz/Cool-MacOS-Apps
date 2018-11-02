@@ -457,6 +457,7 @@
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items
 - [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar.
+- [Cerebro](https://github.com/KELiON/cerebro) - Spotlight productivity booster
 - [Vanilla](http://vanilla.matthewpalmer.net/) - Hide menu bar icons on your Mac.
 - [Guso](https://itunes.apple.com/us/app/guso/id1434234265?mt=12) - Quick Web Search.
 - [AFK](https://github.com/jamieweavis/afk) - The missing screensaver shortcut for macOS
@@ -482,6 +483,7 @@
 - [Fast menubar](https://github.com/doshprompt/fast-menubar) - Take the Fast.com Speedtest from your menu bar
 - [Translate bar](https://github.com/artbobrov/Translate-Bar) - Translate easily right from your macOS menubar
 - [Timestamp](https://mzdr.github.io/timestamp/) - A better macOS menu bar clock with a customizable date/time display and a calendar
+- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - A simple macOS menubar app for controlling Night Shift
 
 ### File Organization Tools
 
