@@ -82,6 +82,8 @@
 ### Developer Utilities
 
 * [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. 
+* [WakaLet](https://github.com/jontelang/WakaLet/releases) - Wakatime.com on your menubar.
+* [Gitify](https://www.gitify.io/?ref=producthunt) - GitHub Notifications on your desktop.
 * [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not.
 * [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. 
@@ -211,11 +213,7 @@
 
 ### Design Tools
 
-* [Acorn](https://secure.flyingmeat.com/acorn/) - Great Mac OS X picture and photo editor, built for humans.
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
-* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. 
-* [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 * [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips.
 * [inklet](https://tenonedesign.com/inklet.php) - Turn your Mac trackpad into drawing board. 
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. 
@@ -226,6 +224,8 @@
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers)- Easily export your screen into a layered PSD file. 
 * [Pixel Perfect](http://pixelperfect-app.com/) - Tool to overlay design images over implementation and make it pixel perfect.
 * [Sparkle](https://sparkleapp.com/) - Pro visual web design.
+* [PixelSnap](https://getpixelsnap.com/?utm_source=affiliate&utm_campaign=jesseshowalter) - The fastest way to measure everything on screen.
+* [Pixel Winch](https://www.ricciadams.com/projects/pixel-winch) - A screen measurement app with a unique approach.
 
 ### Prototyping Tools
 
@@ -236,6 +236,7 @@
   - [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. 
   - [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. 
   - [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use.
+  - [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) - A Sketch plugin that calculates the color contrast of two selected layers and evaluates it.
 - [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - First all-in-one cross-platform tool for designing and prototyping websites and mobile apps.
 - [Axure RP 8](http://www.axure.com/) - Prototypes, specifications and diagrams in one tool.
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
@@ -260,6 +261,7 @@
 - [SimpleMind](https://simplemind.eu/) - The world leader in cross platform Mind Mapping tools.
 - [WriteMapper](https://writemapper.com/) - Get from idea to final draft in no time.
 - [XMind](http://www.xmind.net/) - The most popular mind-mapping tool on the planet. 
+- [Scapple](https://www.literatureandlatte.com/scapple/overview) - Get your thoughts onto the page, then join them up in any way you like.
 
 ### Screenshot Tools
 
@@ -274,8 +276,9 @@
 
 ### Other Tools
 
-- [AnyIpsum](https://github.com/jlowgren/AnyIpsum) - Menu bar application that lets you select a lorem ipsum variation and copy it to the pasteboard
-- [Tint](https://github.com/adaringdesign/tint) - A not-so-sucky color picker status bar for OSX
+- [AnyIpsum](https://github.com/jlowgren/AnyIpsum) - Menu bar application that lets you select a lorem ipsum variation and copy it to the pasteboard.
+- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
+- [Tint](https://github.com/adaringdesign/tint) - A not-so-sucky color picker status bar for OSX.
 - [Homebrew](https://brew.sh/) - The missing package manager for macOS
 - [Gitignore](https://www.gitignore.io/) - Easy way to create useful .gitignore files for your project
 - [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. 
@@ -287,6 +290,8 @@
 - [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 - [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
 - [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors. 
+- [Contrast](https://itunes.apple.com/us/app/contrast-color-accessibility/id1254981365?mt=12) - Color Accessibility
+- [Tint](https://github.com/adaringdesign/tint) - A not-so-sucky color picker status bar for OSX.
 - [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 - [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Easily and intuitively creating beautiful color schemes. 
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Open-source tool to compress images.
@@ -313,6 +318,7 @@
 
 - [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. [![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
 - [Frank](https://meetfranz.com/) - Messaging app for WhatsApp, Facebook Messenger, Slack, HipChat, Telegram and many many more.
+- [Notion](https://www.notion.so/desktop) - Work offline, collaborate in real-time, write without distractions.
 - [Gitter](https://gitter.im/) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
 - [Keybase](https://keybase.io/) - Crypto for everyone, not just programmers!
 - [Messenger For Mac](https://fbmacmessenger.rsms.me/) - Third-party Facebook messenger for Mac.
@@ -331,6 +337,8 @@
 
 * [Airmail](http://airmailapp.com) - Fast email client. For both Mac OS and iOS.
 * [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
+* [Mia for Gmail](https://www.miaforgmail.com/) - Check your gmail from your menubar.
+* [Missive](https://missiveapp.com/download) - Collaborate right in your inboxfchea
 * [N1](https://www.nylas.com/) - Extensible, open-source mail app, free for developers and $7/month for Pro.
 * [Newton(formerly Cloudmagic)](https://newtonhq.com) - An excellent email client with concise interface, scheduling and read receipts.
 * [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.
@@ -345,6 +353,16 @@
 * [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. 
 * [FileZilla](https://filezilla-project.org) - Free software, cross-platform FTP application. Supports FTP, SFTP and FTPS (FTP over SSL/TLS). 
 * [Transmit](https://panic.com/transmit/) - Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV.
+* [Dropshare](https://dropshare.app/) - Meet the most flexible file sharing solution
+
+## Photo Editing Tools
+
+- [Luminar 3](https://skylum.com/luminar?clickid=2-c0oXxqNxyJUaC0RHQK3XRkUkgQDF1e9QRlx80&irpid=1251573&utm_content=ONLINE_TRACKING_LINK&utm_source=CamTech%20E-Learning&utm_campaign=mediapartner_cpa&utm_medium=cpa&aclid=&platform=IR) - The best Lightroom Alternative
+- [Aurora HDR](https://skylum.com/aurorahdr?clickid=2-c0oXxqNxyJUaC0RHQK3XRkUkgQDF1f9QRlx80&irpid=1251573&utm_content=ONLINE_TRACKING_LINK&utm_source=CamTech%20E-Learning&utm_campaign=mediapartner_cpa&utm_medium=cpa&aclid=&platform=IR) - Amplify Your Images with State-of-the-Art HDR.
+- [Acorn](https://secure.flyingmeat.com/acorn/) - Great Mac OS X picture and photo editor, built for humans.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
+- [Pixelmator](http://www.pixelmator.com/mac/) - Full-featured image editor for Mac.
 
 ## Video Tools
 
@@ -400,6 +418,7 @@
 - [FOLX](http://mac.eltima.com/download-manager.html) - Free download manager for Mac OS X with a true Mac-style interface.
 - [JDownloader](http://jdownloader.org/) - Free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Transmission](https://www.transmissionbt.com/) - Fast, easy, free BitTorrent Client.
+- [YouTube Downloader](https://github.com/DenBeke/YouTube-Downloader-for-macOS) - Simple menu bar app to download YouTube movies on your Mac.
 
 ## Browsers
 
@@ -434,7 +453,7 @@
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
 - [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - Adds menu item to Finder.app to display the cryptographic signing information for any file.
 
-## Proxy and VPN Tools
+## Network Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. 
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Rule-based proxy app for macOS.
@@ -444,6 +463,8 @@
 - [Surge](https://nssurge.com/) - Web developer tool and proxy utility for iOS 9. 
 - [Shimo](https://www.shimovpn.com/) - VPN Client for Mac.
 - [FreeVPN Plus](https://www.freevpn.pw/mac-vpn) - Free VPN Client for Mac.
+- [Surge](https://nssurge.com/) - Advanced Network Toolbox for Mac & iOS.
+- [Airpass](http://airpass.tiagoalves.me/) - Easily overcome wifi time limits
 
 ## Utilities
 
@@ -451,6 +472,8 @@
 
 - [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool.
 - [Paste](http://pasteapp.me/) - Smart clipboard history & snippets manager.
+- [PopClip](https://pilotmoon.com/popclip/) - Instantly copy & paste, and access actions like search, spelling, dictionary and [over 100 more](https://pilotmoon.com/popclip/extensions/).
+- [PasteBot](https://itunes.apple.com/us/app/pastebot/id1179623856?mt=12&ign-mpt=uo%3D4) - Pastebot is an indispensible tool to improve your productivity. 
 
 ### Menu Bar Tools
 
@@ -491,6 +514,7 @@
 - [Hazel](https://www.noodlesoft.com/) - Automated file organization for your Mac. Responsibly and beautifully designed.
 - [Keka](http://www.kekaosx.com/) - Free file archiver for macOS. Compression formats supported:7z, Zip, Tar, Gzip, Bzip2, DMG, ISO. Extraction formats supported: RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX.
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files.
+- [Google Photos for Desktop](http://googlephotos.forcandies.com/) - Free unofficial application for your Mac. Supports all features you know.
 
 ### Window Managment
 
@@ -500,6 +524,9 @@
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with simple and customizable keyboard shortcuts.
 - [Amethyst](http://ianyh.com/amethyst/) - Tiling window manager.
 - [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized.
+- [Flexiglass](https://www.nulana.com/flexiglass/) - Working with windows on a Mac couldn't be any easier.
+- [Context](https://contexts.co/) - Radically simpler & faster window switcher.
+- [Hocus Focus](http://hocusfoc.us/) - A Mac menu bar utility that hides your inactive windows.
 
 ### Password Management
 
@@ -513,11 +540,13 @@
 
 - [ForkLift](http://binarynights.com/forklift/) - The most advanced dual pane file manager and file transfer client for macOS.
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - File management app.
+- [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac.
 - [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder.
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
 - [Open In Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 - [Mac new file](https://github.com/fateleak/macnewfile) - MacOS Finder new file plugin, supporting file templates
+- [Power Menu](https://fiplab.com/apps/power-menu-for-mac) - Our workflow enhancing Finder extension for Mac.
 - [Open Terminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 - [Open in Terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. 
@@ -542,8 +571,14 @@
 ### System Releated Tools
 
 - [AppCleaner](http://freemacsoft.net/appcleaner/) - Small application which allows you to thoroughly uninstall unwanted apps.
+- [TrashMe](https://www.jibapps.com/apps/trashme/) - Uninstall and clean, the perfect way.
+- [CleanApp](https://www.syniumsoftware.com/cleanapp) - Reclaim hard drive space.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Don't let your Mac fall asleep!
+- [Screenfocus](https://www.apptorium.com/screenfocus?ref=producthunt) - Working with multiple monitors made right. 
+- [NightOwl](https://nightowl.kramser.xyz/) - Easily toggle MacOS Mojave dark mode
+- [Healthi](http://pablopunk.com/healthi-app/) - Simple app to check your Mac Battery health.
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner) - Helps make your Xcode faster by removing unwanted and deprecated files.
+- [HiddenMe](https://itunes.apple.com/us/app/hiddenme-hide-desktop-icons/id467040476?mt=12) - Hide Desktop Icons.
 - [Coolant](https://coolantformac.com/) - Menubar app that lets you know when an app is consuming 100% CPU or more than a gigabyte of memory (or any arbitrary limits you choose).
 - [DaisyDisk](https://daisydiskapp.com/) - Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.
 - [Theine](https://github.com/lvillani/theine) - Don't let your Mac fall asleep, like a sir
@@ -566,19 +601,33 @@
 - [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac.
 - [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - Read/write access to NTFS in macOS Sierra.
 - [OnyX](http://www.titanium.free.fr/) - Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more.
+- [Get Backup Pro](https://www.belightsoft.com/products/getbackup/) - Advanced Mac Backup Software.
 
 ### Other Tools
 
 - [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day.
+- [ToothFairy](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - Quick Bluetooth connections.
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. 
+- [Ceceree](https://ceceree.com/?ref=producthunt) - Create shareable app wish lists and keep track of interesting apps.
 - [Stretchly](https://github.com/hovancik/stretchly) -  Break time reminder app
 - [Shifty](http://shifty.natethompson.io/) - A macOS menu bar app that gives you more control over Night Shift.
 - [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
 - [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management
+- [Resolutionator](https://manytricks.com/resolutionator/) - Change monitor resolutions faster.
+- [ChargeMe](https://github.com/strumswell/ChargeMe) - A macOS charging reminder
+- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app.
+- [aText](http://www.trankynam.com/atext/) - aText accelerates your typing by replacing abbreviations with frequently used phrases you define.
+- [Calcbot](https://itunes.apple.com/us/app/calcbot-the-intelligent-calculator-and-unit-converter/id931657367?mt=12&ign-mpt=uo%3D4) - The smart calculator.
+- [Deliveries](https://itunes.apple.com/mx/app/deliveries/id924726344?mt=12&ign-mpt=uo%3D4) - A package tracker.
+- [The Clock](https://www.seense.com/the_clock/) - The best world clock
+- [Unclutter](https://unclutterapp.com/?irgwc=1) - A new handy place on your desktop for storing notes, files and pasteboard clips.
+- [Clocker](https://abhishekbanthia.com/clocker/) - The cleanest world clock integrated in your menubar.
 - [AirServer](http://www.airserver.com/Download) - Most advanced screen mirroring software receiver for Mac, PC and Xbox One.
 - [Today flights](http://joshparnham.com/projects/todayflights/) - Notification Center widget that allows you to monitor flights
 - [Nimble 2](http://maybulb.com/nimble/) - A simple but powerful Wolfram|Alpha menubar client for macOS
 - [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - Google Assistant for macOS.
+- [Unite 2](https://www.bzgapps.com/unite) - Turn your websites into native apps on your Mac.
+- [Breaks for Eyes](https://itunes.apple.com/app/id1439431081) - Avoid eye strain and headache!
 - [Memo](http://memo-app.net/) - Simple and elegant app. Unlock memos even more quickly using Touch ID.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac.
 - [Foco](https://github.com/akashnimare/foco) - Stay focused with Foco
@@ -588,6 +637,7 @@
 - [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X
 - [Webdrop](https://github.com/JustinFincher/WebDrop) -  Share your Mac's current chrome tab via airdrop
 - [texpad](https://www.texpad.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
+- [Quids](https://quidsapp.com/?ref=producthunt) - The cryptocurrency manager for your Mac.
 
 ## Productivity
 
@@ -595,6 +645,7 @@
   - [Alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
   - [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) - Amazing Alfred Workflows
 - [BetterTouchTool](https://boastr.net/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
+- [Workspaces](https://itunes.apple.com/us/app/workspaces/id1219826448?mt=12) - Workspaces is a great app for people who work on multiple projects.
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful and stable keyboard customizer for OS X.
 - [Keyboard Maestro](http://www.keyboardmaestro.com/) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 - [Keytty](http://keytty.com/) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
@@ -605,10 +656,14 @@
 - [OmniPlan](https://www.omnigroup.com/omniplan/) - The best way to visualize, maintain, and simplify your projects. Project Management made easy.
 - [SensibleSideButtons](http://sensible-side-buttons.archagon.net/) – Use the side buttons on your mouse to move forward and backward in many apps, like in Windows.
 - [xScope](http://xscopeapp.com/) - Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts
+- [Itsycal](https://www.mowglii.com/itsycal/) - Itsycal is a tiny menu bar calendar.
+- [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
+- [Shift](https://tryshift.com/?gspk=U292aXRoeWVhUGhhdGg=&gsxid=hynE4WGJw04T&utm_source=gs) - Shift is all about streamlining your workflow, like a boss.
 
 ### To-Do Lists
 
 - [2Do](http://www.2doapp.com/) - Nice todo app.
+- [Next Meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-your/id1017470484?mt=12&ign-mpt=uo%3D4&ref=producthunt) - Quickly see your next meeting in the menubar.
 - [Day-O 2](http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement with built-in calendar.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without.
 - [Focus](https://masterbuilders.io/) - Beautiful pomodoro-based time manager.
@@ -619,7 +674,10 @@
 - [Todoist](https://todoist.com/mac) - Cross-platform todo list app.
 - [Wunderlist](https://www.wunderlist.com/?ncr=1) - The easiest way to get stuff done.
 - [Status bar To-do](https://github.com/Onix-Systems/osx-status-bar-todo) - Simple macOS app to keep TODO-list in status bar
-- [Tassk](https://github.com/furkanhatipoglu/tassk) - Simple to-do menu bar app for OS X
+- [Tassk](https://github.com/furkanhatipoglu/tassk) - Simple to-do menubar app for OS X
+- [TickTick](https://itunes.apple.com/app/tick-tick/id626144601) - Todo List & any reminder.
+- [WeDo](https://itunes.apple.com/us/app/wedo-your-second-brain/id1115322594) - Simple Life Manager.
+- [GoodTask 3](https://itunes.apple.com/us/app/goodtask-3/id1143437985) - To Do List, Tasks & Reminders.
 
 ### Markdown Editors
 
@@ -673,6 +731,18 @@
 - [Reeder 3](http://reederapp.com/mac/) - News reader for Feedbin, Feedly, Feed Wrangler and so on.
 - [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X.
 
+## Android Tools for Mac
+
+- [Handshaker](https://itunes.apple.com/us/app/handshaker-manage-your-android-phones-at-ease/id1012930195?mt=12) - Manage your Android phones at ease.
+- [Pushbullet](https://www.pushbullet.com/apps) - Pushbullet is a free service that lets you mirror phone notifications to your Mac.
+- [Alt-C](https://altcopy.net/#download) - Two-way text copying between your PC and Smart devices
+- [Vysor](https://www.vysor.io/download/) -  Turns your connected Android phone into a live and interactive emulator, letting you control your phone with a mouse and keyboard on your Mac.
+- [DroidID](http://suyashsrijan.com/droidid/) - The app makes it possible for you to unlock your Mac with your Android phone’s fingerprint.
+
+## Social
+
+- [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your Mac.
+
 ## Remote Login Software
 
 - [AnyDesk](https://anydesk.com/) - Provides Remote access across multiple machines.
@@ -696,6 +766,7 @@
 - [NextCloud](https://nextcloud.com/) - Actively maintained fork of ownCloud, faster and completely open-source
 - [Seafile](https://www.seafile.com/) - Reliable and High Speed File Sync and Share.
 - [ownCloud](https://owncloud.org/) - Cloud storage.
+- [Wavebox](https://wavebox.io/) - A New Home for Cloud Apps.
 
 ## Data Recovery  and Forensic Tools
 
@@ -705,6 +776,10 @@
 - [Disk Arbitrator](https://github.com/aburgh/Disk-Arbitrator) - A Mac OS X forensic utility which manages file system mounting in support of forensic procedures
 - [Auditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 - [Memoryze](http://www.mandiant.com/resources/download/mac-memoryze) - free memory forensic software that helps incident responders find evil in memory
+
+## Antivirus
+
+- [Sophos](https://home.sophos.com/en-us/register.aspx) - Business-grade cybersecurity.
 
 ## Touch Bar
 
