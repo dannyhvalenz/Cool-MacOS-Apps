@@ -550,6 +550,7 @@
 - [Open Terminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
 - [Open in Terminal](https://github.com/jakshin/open-in-terminal) - A macOS Finder toolbar app which opens Terminal windows conveniently
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. 
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Open VS Code on current Folder quickly from Finder.
 
 #### QuickLook Plugins
 
