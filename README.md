@@ -544,7 +544,6 @@
 - [TotalFinder](http://totalfinder.binaryage.com/) - Chrome-styled Finder substitute.
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds tabs and cut to Mac Finder.
 - [Boo](https://github.com/dimovskidamjan/Boo) - A menu bar tool which helps with showing and hiding of hidden files
-- [Open In Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 - [Mac new file](https://github.com/fateleak/macnewfile) - MacOS Finder new file plugin, supporting file templates
 - [Power Menu](https://fiplab.com/apps/power-menu-for-mac) - Our workflow enhancing Finder extension for Mac.
 - [Open Terminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched.
