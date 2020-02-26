@@ -317,7 +317,7 @@
 ### Collaboration and Team Tools
 
 - [DingTalk](https://www.dingtalk.com/en) - Free, powerful and professional office tool used by over 5 million enterprises and organizations globally. [![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
-- [Frank](https://meetfranz.com/) - Messaging app for WhatsApp, Facebook Messenger, Slack, HipChat, Telegram and many many more.
+- [Franz](https://meetfranz.com/) - Messaging app for WhatsApp, Facebook Messenger, Slack, HipChat, Telegram and many many more.
 - [Notion](https://www.notion.so/desktop) - Work offline, collaborate in real-time, write without distractions.
 - [Gitter](https://gitter.im/) - Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.
 - [Keybase](https://keybase.io/) - Crypto for everyone, not just programmers!
