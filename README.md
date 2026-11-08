@@ -476,6 +476,9 @@
 - [PasteBot](https://itunes.apple.com/us/app/pastebot/id1179623856?mt=12&ign-mpt=uo%3D4) - Pastebot is an indispensible tool to improve your productivity. 
 
 ### Menu Bar Tools
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items
