@@ -389,6 +389,7 @@
 * [Sub-It](https://github.com/Kevin-De-Koninck/Sub-It) - Small macOS application to download subtitles
 
 ## Audio Tools
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing beside the Dock on macOS.
 
 - [Sonora](https://github.com/sonoramac/Sonora) -  Minimal, beautifully designed music player. 
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - A SoundCloud player that lives in your menubar.
